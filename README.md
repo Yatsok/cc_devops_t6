@@ -1,2 +1,3 @@
-# cc_devops_t6
-Task 06
+# DevOps Crash Course 06
+
+This repository is created for hometask.
